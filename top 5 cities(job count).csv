@@ -1,0 +1,262 @@
+"post_week","metro_name","job_count","nm_rank"
+"2019-05-06","New York",31,1
+"2019-05-06","Los Angeles",23,2
+"2019-05-06","San Francisco - Oakland - San Jose",22,3
+"2019-05-06","Minneapolis - Saint Paul",16,4
+"2019-05-06","Miami - Fort Lauderdale",7,5
+"2019-04-29","Los Angeles",48,1
+"2019-04-29","New York",46,2
+"2019-04-29","San Francisco - Oakland - San Jose",43,3
+"2019-04-29","Minneapolis - Saint Paul",22,4
+"2019-04-29","Philadelphia",12,5
+"2019-04-22","San Francisco - Oakland - San Jose",44,1
+"2019-04-22","New York",38,2
+"2019-04-22","Los Angeles",35,3
+"2019-04-22","Minneapolis - Saint Paul",18,4
+"2019-04-22","Chicago",14,5
+"2019-04-15","San Francisco - Oakland - San Jose",39,1
+"2019-04-15","New York",34,2
+"2019-04-15","Los Angeles",33,3
+"2019-04-15","Minneapolis - Saint Paul",19,4
+"2019-04-15","Chicago",14,5
+"2019-04-08","San Francisco - Oakland - San Jose",53,1
+"2019-04-08","New York",49,2
+"2019-04-08","Los Angeles",40,3
+"2019-04-08","Minneapolis - Saint Paul",39,4
+"2019-04-08","Boston (Manchester)",9,5
+"2019-04-01","New York",47,1
+"2019-04-01","San Francisco - Oakland - San Jose",40,2
+"2019-04-01","Los Angeles",37,3
+"2019-04-01","Sacramento - Stockton - Modesto",12,4
+"2019-04-01","Minneapolis - Saint Paul",11,5
+"2019-03-25","San Francisco - Oakland - San Jose",55,1
+"2019-03-25","New York",54,2
+"2019-03-25","Los Angeles",41,3
+"2019-03-25","Minneapolis - Saint Paul",26,4
+"2019-03-25","Boston (Manchester)",10,5
+"2019-03-18","San Francisco - Oakland - San Jose",45,1
+"2019-03-18","New York",42,2
+"2019-03-18","Los Angeles",34,3
+"2019-03-18","Minneapolis - Saint Paul",18,4
+"2019-03-18","Dallas - Fort Worth",5,5
+"2019-03-11","San Francisco - Oakland - San Jose",44,1
+"2019-03-11","New York",31,2
+"2019-03-11","Los Angeles",31,3
+"2019-03-11","Minneapolis - Saint Paul",12,4
+"2019-03-11",,8,5
+"2019-03-04","Los Angeles",45,1
+"2019-03-04","New York",44,2
+"2019-03-04","San Francisco - Oakland - San Jose",34,3
+"2019-03-04",,20,4
+"2019-03-04","Chicago",10,5
+"2019-02-25","San Francisco - Oakland - San Jose",39,1
+"2019-02-25","New York",39,2
+"2019-02-25","Los Angeles",35,3
+"2019-02-25",,24,4
+"2019-02-25","San Diego",5,5
+"2019-02-18","San Francisco - Oakland - San Jose",44,1
+"2019-02-18","Los Angeles",42,2
+"2019-02-18","New York",39,3
+"2019-02-18",,22,4
+"2019-02-18","Washington DC (Hagerstown)",6,5
+"2019-02-11","San Francisco - Oakland - San Jose",36,1
+"2019-02-11","New York",33,2
+"2019-02-11","Los Angeles",30,3
+"2019-02-11",,17,4
+"2019-02-11","Chicago",8,5
+"2019-02-04","San Francisco - Oakland - San Jose",53,1
+"2019-02-04","New York",45,2
+"2019-02-04","Los Angeles",30,3
+"2019-02-04",,17,4
+"2019-02-04","Chicago",4,5
+"2019-01-28","New York",53,1
+"2019-01-28","San Francisco - Oakland - San Jose",49,2
+"2019-01-28","Los Angeles",35,3
+"2019-01-28",,33,4
+"2019-01-28","Chicago",9,5
+"2019-01-21","San Francisco - Oakland - San Jose",49,1
+"2019-01-21","New York",41,2
+"2019-01-21","Los Angeles",32,3
+"2019-01-21",,16,4
+"2019-01-21","San Diego",10,5
+"2019-01-14","San Francisco - Oakland - San Jose",56,1
+"2019-01-14","New York",38,2
+"2019-01-14","Los Angeles",34,3
+"2019-01-14",,14,4
+"2019-01-14","Chicago",10,5
+"2019-01-07","New York",60,1
+"2019-01-07","Los Angeles",39,2
+"2019-01-07","San Francisco - Oakland - San Jose",37,3
+"2019-01-07",,19,4
+"2019-01-07","Chicago",6,5
+"2018-12-31","San Francisco - Oakland - San Jose",32,1
+"2018-12-31","New York",28,2
+"2018-12-31","Los Angeles",27,3
+"2018-12-31",,11,4
+"2018-12-31","Boston (Manchester)",8,5
+"2018-12-24","New York",28,1
+"2018-12-24","San Francisco - Oakland - San Jose",20,2
+"2018-12-24","Los Angeles",16,3
+"2018-12-24",,11,4
+"2018-12-24","Miami - Fort Lauderdale",2,5
+"2018-12-17","San Francisco - Oakland - San Jose",30,1
+"2018-12-17","New York",30,2
+"2018-12-17","Los Angeles",13,3
+"2018-12-17",,12,4
+"2018-12-17","Atlanta",4,5
+"2018-12-10","San Francisco - Oakland - San Jose",45,1
+"2018-12-10","New York",36,2
+"2018-12-10","Los Angeles",19,3
+"2018-12-10",,12,4
+"2018-12-10","Chicago",9,5
+"2018-12-03","San Francisco - Oakland - San Jose",53,1
+"2018-12-03","New York",30,2
+"2018-12-03","Los Angeles",27,3
+"2018-12-03","Washington DC (Hagerstown)",6,4
+"2018-12-03","Chicago",6,5
+"2018-11-26","San Francisco - Oakland - San Jose",61,1
+"2018-11-26","New York",35,2
+"2018-11-26","Los Angeles",23,3
+"2018-11-26","Chicago",6,4
+"2018-11-26","Washington DC (Hagerstown)",3,5
+"2018-11-19","San Francisco - Oakland - San Jose",30,1
+"2018-11-19","New York",29,2
+"2018-11-19","Los Angeles",10,3
+"2018-11-19","Chicago",4,4
+"2018-11-19","Detroit",2,5
+"2018-11-12","New York",43,1
+"2018-11-12","Los Angeles",28,2
+"2018-11-12","San Francisco - Oakland - San Jose",19,3
+"2018-11-12","Chicago",8,4
+"2018-11-12","Washington DC (Hagerstown)",6,5
+"2018-11-05","New York",42,1
+"2018-11-05","Los Angeles",33,2
+"2018-11-05","San Francisco - Oakland - San Jose",32,3
+"2018-11-05","Boston (Manchester)",8,4
+"2018-11-05","Houston",4,5
+"2018-10-29","New York",61,1
+"2018-10-29","San Francisco - Oakland - San Jose",38,2
+"2018-10-29","Los Angeles",30,3
+"2018-10-29","Chicago",16,4
+"2018-10-29","Boston (Manchester)",11,5
+"2018-10-22","New York",43,1
+"2018-10-22","Los Angeles",31,2
+"2018-10-22","San Francisco - Oakland - San Jose",26,3
+"2018-10-22","Seattle - Tacoma",11,4
+"2018-10-22","Chicago",9,5
+"2018-10-15","New York",17,1
+"2018-10-15","Los Angeles",13,2
+"2018-10-15","San Francisco - Oakland - San Jose",12,3
+"2018-10-15","Chicago",7,4
+"2018-10-15","Boston (Manchester)",5,5
+"2018-10-08","New York",20,1
+"2018-10-08","Los Angeles",17,2
+"2018-10-08","San Francisco - Oakland - San Jose",8,3
+"2018-10-08","Chicago",4,4
+"2018-10-08","Las Vegas",3,5
+"2018-10-01","New York",50,1
+"2018-10-01","Los Angeles",38,2
+"2018-10-01","San Francisco - Oakland - San Jose",17,3
+"2018-10-01","Washington DC (Hagerstown)",11,4
+"2018-10-01","Chicago",10,5
+"2018-09-24","New York",40,1
+"2018-09-24","San Francisco - Oakland - San Jose",28,2
+"2018-09-24","Los Angeles",27,3
+"2018-09-24","Chicago",14,4
+"2018-09-24","Phoenix",6,5
+"2018-09-17","New York",51,1
+"2018-09-17","Los Angeles",25,2
+"2018-09-17","Chicago",14,3
+"2018-09-17","San Francisco - Oakland - San Jose",14,4
+"2018-09-17","San Diego",8,5
+"2018-09-10","Los Angeles",22,1
+"2018-09-10","New York",22,2
+"2018-09-10","San Francisco - Oakland - San Jose",10,3
+"2018-09-10","Boston (Manchester)",7,4
+"2018-09-10","Houston",6,5
+"2018-09-03","Los Angeles",10,1
+"2018-09-03","New York",3,2
+"2018-09-03","San Francisco - Oakland - San Jose",2,3
+"2018-08-27","New York",6,1
+"2018-08-27","San Francisco - Oakland - San Jose",4,2
+"2018-08-27","Los Angeles",4,3
+"2018-08-27","Baton Rouge",1,4
+"2018-08-20","New York",6,1
+"2018-08-20","Los Angeles",3,2
+"2018-08-20","San Francisco - Oakland - San Jose",2,3
+"2018-08-13","New York",5,1
+"2018-08-13","San Francisco - Oakland - San Jose",3,2
+"2018-08-13","Los Angeles",2,3
+"2018-08-13","Jacksonville, Brunswick",1,4
+"2018-08-13",,1,5
+"2018-08-06","Los Angeles",7,1
+"2018-08-06","San Francisco - Oakland - San Jose",5,2
+"2018-08-06",,2,3
+"2018-08-06","New York",2,4
+"2018-07-30","Los Angeles",6,1
+"2018-07-30","New York",3,2
+"2018-07-30","San Francisco - Oakland - San Jose",1,3
+"2018-07-23","Los Angeles",8,1
+"2018-07-23","San Francisco - Oakland - San Jose",2,2
+"2018-07-23","New York",1,3
+"2018-07-23","West Palm Beach - Fort Pierce",1,4
+"2018-07-16","New York",5,1
+"2018-07-16","Los Angeles",5,2
+"2018-07-09","New York",3,1
+"2018-07-09","Los Angeles",3,2
+"2018-07-09","San Francisco - Oakland - San Jose",2,3
+"2018-07-09",,1,4
+"2018-07-02","New York",4,1
+"2018-07-02","San Francisco - Oakland - San Jose",3,2
+"2018-07-02","Los Angeles",1,3
+"2018-06-25","Los Angeles",5,1
+"2018-06-25","New York",2,2
+"2018-06-18","San Francisco - Oakland - San Jose",5,1
+"2018-06-18","New York",3,2
+"2018-06-18",,1,3
+"2018-06-11","San Francisco - Oakland - San Jose",6,1
+"2018-06-11","Los Angeles",4,2
+"2018-06-11","New York",4,3
+"2018-06-11","Seattle - Tacoma",1,4
+"2018-06-04","San Francisco - Oakland - San Jose",6,1
+"2018-06-04","New York",3,2
+"2018-06-04","Sioux Falls (Mitchell)",1,3
+"2018-06-04","Chicago",1,4
+"2018-06-04","Madison",1,5
+"2018-05-28","San Francisco - Oakland - San Jose",6,1
+"2018-05-28","New York",5,2
+"2018-05-28","Los Angeles",3,3
+"2018-05-28",,2,4
+"2018-05-21","New York",9,1
+"2018-05-21","San Francisco - Oakland - San Jose",4,2
+"2018-05-21","Los Angeles",3,3
+"2018-05-14","New York",12,1
+"2018-05-14","San Francisco - Oakland - San Jose",7,2
+"2018-05-14","Los Angeles",5,3
+"2018-05-07","New York",8,1
+"2018-05-07","Los Angeles",3,2
+"2018-05-07","New Orleans",1,3
+"2018-05-07","San Francisco - Oakland - San Jose",1,4
+"2018-04-30","Los Angeles",8,1
+"2018-04-30","San Francisco - Oakland - San Jose",8,2
+"2018-04-30","New York",7,3
+"2018-04-30","Chicago",1,4
+"2018-04-23","New York",4,1
+"2018-04-23","Los Angeles",4,2
+"2018-04-23","San Francisco - Oakland - San Jose",4,3
+"2018-04-23",,3,4
+"2018-04-23","Tucson (Sierra Vista)",1,5
+"2018-04-16","San Francisco - Oakland - San Jose",10,1
+"2018-04-16","Los Angeles",6,2
+"2018-04-16","New York",5,3
+"2018-04-16","Monterey - Salinas",1,4
+"2018-04-09","New York",15,1
+"2018-04-09","Los Angeles",5,2
+"2018-04-02","New York",10,1
+"2018-04-02","San Francisco - Oakland - San Jose",7,2
+"2018-04-02","Los Angeles",5,3
+"2018-04-02","Phoenix",1,4
+"2018-04-02",,1,5
+"2018-03-26",,1,1
+"2018-03-26","New Orleans",1,2
+"2018-03-26","San Francisco - Oakland - San Jose",1,3
